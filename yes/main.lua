@@ -36,7 +36,7 @@ StatusGUI.Text = "Downloading Scripts..."
 SpinTheLogo()
 StatusGUI.Text = "Verifying Version..."
 SpinTheLogo()
-StatusGUI.Text = "Successfully Loaded Ez Hub" 
+StatusGUI.Text = "Successfully Loaded Rent hub" 
 
 repeat
 EzModsLogo.ImageTransparency = EzModsLogo.ImageTransparency + 0.01
