@@ -82,7 +82,7 @@ EzCMD.UIPadding.PaddingLeft = UDim.new(0, 15)
 EzCMD.UIPadding.PaddingRight = UDim.new(0, 10)
 EzCMD.UIPadding.PaddingTop = UDim.new(0, 8)
 
-EzCMD.TitleEzCMD.Name = "TitleRentCMD"
+EzCMD.TitleEzCMD.Name = "TitleRent CMD"
 EzCMD.TitleEzCMD.Parent = EzCMD.MainFrame
 EzCMD.TitleEzCMD.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 EzCMD.TitleEzCMD.BackgroundTransparency = 1.000
@@ -100,7 +100,7 @@ EzCMD.Close.Parent = EzCMD.MainFrame
 EzCMD.Close.BackgroundColor3 = Color3.fromRGB(255, 116, 137)
 EzCMD.Close.BackgroundTransparency = 1.000
 EzCMD.Close.BorderSizePixel = 0
-EzCMD.Close.Position = UDim2.new(0.930000007, 0, 0.0489999987, 0)
+EzCMD.Close.Position = UDim2.new(0.930000007, 0, 0.0489999987,0)
 EzCMD.Close.Size = UDim2.new(0, 20, 0, 20)
 EzCMD.Close.ZIndex = 2
 EzCMD.Close.Font = Enum.Font.SourceSans
