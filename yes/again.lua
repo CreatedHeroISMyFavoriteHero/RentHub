@@ -1,35 +1,35 @@
 {
     "4.1": [
         25,
-        "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub4.1.lua"
+        "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "4.0": [
         24,
-        "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub4.0.lua"
+        "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "3.9": [
         23,
-        "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub3.9.lua"
+        "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "3.7": [
         22,
-        "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub3.7.lua"
+        "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "3.6": [
       21,
-      "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub3.6.lua"
+      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua
     ],
     "1.9": [
       6,
-      "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub1.9.lua"
+      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.luaa"
     ],
     "2.1": [
       8,
-      "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub2.1.lua"
+      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "3.0": [
       17,
-      "https://raw.githubusercontent.com/debug420/Ez-Hub/master/EzHub3.0.lua"
+      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "1.8": [
       5,
