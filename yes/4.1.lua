@@ -1951,7 +1951,7 @@ loadToStage(0.95, "Finalising and Cleaning Up...");
 
 EzHub.ProfileFrame.ImageLabel.Image = game:GetService("Players"):GetUserThumbnailAsync(game:GetService("Players").LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420);
 EzHub.SponsorText.Text = "There is currently no news to display.";
-EzHub.TextLabel_8.Text = "Hello "..game.Players.LocalPlayer.Name..", Thank you for using Ez Hub";
+EzHub.TextLabel_8.Text = "Hello "..game.Players.LocalPlayer.Name..", Thank you for using Rent Hub";
 
 local ezlib = loadstring(_G["EzHubModules"]["ezlib"])();
 
