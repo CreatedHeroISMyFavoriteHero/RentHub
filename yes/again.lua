@@ -21,7 +21,7 @@
     ],
     "1.9": [
       6,
-      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.luaa"
+      "https://raw.githubusercontent.com/CreatedHeroISMyFavoriteHero/RentHub/main/yes/4.1.lua"
     ],
     "2.1": [
       8,
