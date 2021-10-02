@@ -123,8 +123,8 @@ local ThemeCustomInputFieldSettings = CreateInstance('TextBox',{ClearTextOnFocus
 -- Notification of Startup
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Ez Hub";
-    Text = "Ez Hub loaded successfully. Enjoy!";
+    Title = "Rent hub";
+    Text = "Rent's hub has loaded successfully. Enjoy!";
     Duration = 6;
 })
 
@@ -205,7 +205,7 @@ EzModButton.MouseButton1Click:connect(function()
 	OtherHubs.Visible = false
 end)
 EzModButton.MouseEnter:Connect(function()
-	InfoDisplay.Text = "Ez Mod Scripts - Comes with all the scripts that are originally made by Ez Mods"
+	InfoDisplay.Text = "Rent hub Mod Scripts - Comes with all the scripts that are originally made by other people :P"
 end)
 
 ---------------------------------------------------------------------
@@ -218,7 +218,7 @@ RepostedScriptsButton.MouseButton1Click:connect(function()
 	OtherHubs.Visible = false
 end)
 RepostedScriptsButton.MouseEnter:Connect(function()
-	InfoDisplay.Text = "Other Scripts - Scripts that are not made by Ez Mods are posted here. This section includes scripts made by other people"
+	InfoDisplay.Text = "Other Scripts - Scripts that are not made by Rent are posted here. This section includes scripts made by other people"
 end)
 
 ---------------------------------------------------------------------
@@ -231,7 +231,7 @@ OtherHubButton.MouseButton1Click:Connect(function()
 	OtherHubs.Visible = true
 end)
 OtherHubButton.MouseEnter:Connect(function()
-	InfoDisplay.Text = "Other Hubs - This section of Ez Hub includes some other impressive hubs made by other people"
+	InfoDisplay.Text = "Other Hubs - This section of Rent Hub includes some other impressive hubs made by other people"
 end)
 
 
